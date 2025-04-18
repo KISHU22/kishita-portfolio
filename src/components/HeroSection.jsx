@@ -54,6 +54,7 @@ const HeroSection = () => {
       <div className="flex justify-center sm:justify-start">
           <a
              href={resume}
+             download
              target="_blank"
              rel="noopener noreferrer"
              className="inline-flex items-center gap-2 w-full sm:w-auto px-6 py-3 bg-orange-500 text-white border-2 border-orange-500 rounded-lg transition duration-300 hover:bg-white hover:text-orange-500 font-semibold"
