@@ -45,7 +45,7 @@ const HeroSection = () => {
         <a href="https://github.com" target="_blank" rel="noopener noreferrer">
           <FaGithub className="hover:text-orange-500 transition" />
         </a>
-        <a href="mailto:kishita@example.com">
+        <a href="mailto:kishitasharma0@gmail.com">
           <FaEnvelope className="hover:text-orange-500 transition" />
         </a>
       </div>
