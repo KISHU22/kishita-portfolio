@@ -1,6 +1,7 @@
 import React from "react";
 import TastyBurgerImg from "../assets/tastyburger.png";
 import SkyVibeImg from "../assets/skyvibeweather.png";
+import InvestrackImg from "../assets/Investrack-project.png";
 
 const projects = [
   {
@@ -18,6 +19,15 @@ const projects = [
     gitLink: "https://github.com/KISHU22/Weatherapp",
     liveLink: "https://skyvibeweather.netlify.app/",
     image: SkyVibeImg,
+  },
+  {
+    title: "Investrack Investment App",
+    description:
+      "A Mutual Fund Investment platform built using ReactJS, Tailwind, WordPress REST API.",
+    technologies: ["ReactJS", "Tailwind CSS", "WordPress REST API"],
+    gitLink: "https://github.com/KISHU22/Investment-Project", 
+    liveLink: "https://investrack1.netlify.app/", 
+    image: InvestrackImg,
   },
 ];
 
